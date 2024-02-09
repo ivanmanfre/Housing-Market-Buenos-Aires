@@ -1,3 +1,3 @@
 # Housing-Market-Buenos-Aires
 
-Data scrap from ZonaProp, cleaning on SQL and Visualizations in Tableau.
+Data scraping from ZonaProp, cleaning/transformation on SQL and Visualizations in Tableau.
